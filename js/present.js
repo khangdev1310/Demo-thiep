@@ -1,7 +1,7 @@
 
 var to = 'My Friend!';
 var gift_url = 'https://www.facebook.com/loi.kiet.12/';
-var gift_image_url = '../img/87102584_664066567679766_6982045526690627584_o.jpg';
+var gift_image_url = './img/87102584_664066567679766_6982045526690627584_o.jpg';
 
 
 
