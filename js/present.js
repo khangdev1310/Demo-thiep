@@ -1,7 +1,7 @@
 
-var to = 'My Friend!';
-var gift_url = 'https://www.facebook.com/loi.kiet.12/';
-var gift_image_url = './img/87102584_664066567679766_6982045526690627584_o.jpg';
+var to = 'Đại ca Khỉ';
+var gift_url = 'https://www.facebook.com/274yeknom';
+var gift_image_url = './img/150611208_746142039350955_3499470828589673809_n.jpg';
 
 
 
@@ -31,12 +31,12 @@ function init() {
       presentImage.appendChild(_giftImg);
     }
   }
-    
   present.addEventListener("click", function(e){
     present.classList.toggle("open");
     document.getElementById("card").classList.add("card-show");
     document.getElementById("present").classList.add("above-fold__respon");
     document.getElementById("text-thiep").style.opacity = "0";
+    
   }, false);
   
   
